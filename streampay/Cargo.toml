@@ -1,0 +1,12 @@
+[package]
+name = "streampay"
+version = "0.1.0"
+authors = ["Stream Protocol <contact@streamprotocol.org>"]
+edition = "2018"
+
+[dependencies]
+solana-program = "1.17.1"
+byteorder = "1.4.3"
+thiserror = "1.0.28"
+
+[dev-dependencies]
